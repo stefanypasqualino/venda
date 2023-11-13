@@ -1,11 +1,11 @@
-body {background-color: rgb(31, 21, 3);}
+body {background-color: orange;}
 h1 {text-align: 50%;}
 #mari{margin-left:35%;}
-h1 {color: rgb(0, 0, 0);}
-h2{color: ;}
+h1 {color: rgb(238, 232, 232);}
+h2{color: rgb(255, 255, 255);}
 h2 {text-align: 50%;}
-#base {width:30%;}
-#ilumi {width:30%;}
-#logo {width: 30%;}
-#gross {width:30%;}
-#pincel {width: 30%;}
+#base {width:25%;}
+#ilumi {width:25%;}
+#logo {width: 25%;}
+#gross {width:25%;}
+#pincel {width: 25%;}
