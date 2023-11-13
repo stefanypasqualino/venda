@@ -4,11 +4,11 @@ h1 {text-align: center;}
 h1 {color: rgb(0, 0, 0);}
 h2{color: rgb(0, 0, 0);}
 h2 {text-align: center;}
-#base {width:5%;}
-#ilumi {width:5%;}
-#logo {width: 5%;}
-#gross {width:5%;}
-#pincel {width: 5%;}
+#base {width:20%;}
+#ilumi {width:20%;}
+#logo {width: 20%;}
+#gross {width:20%;}
+#pincel {width: 20%;}
 h1 {border:solid 3px white}
 h2 {border:solid 3px white;}
-h3{font-size:40%;}
+h3{font-size:60%;}
